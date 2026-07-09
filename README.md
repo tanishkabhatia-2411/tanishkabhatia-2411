@@ -9,16 +9,6 @@ Learning • Building • Growing 🚀
 </p>
 
 
-<table>
-<tr>
-
-<td width="35%">
-
-<img src="YOUR_IMAGE_LINK_HERE" width="220">
-
-</td>
-
-<td>
 
 ## 👩‍💻 About Me
 
