@@ -1,19 +1,11 @@
-# Hi, I'm Tanishka Bhatia 👋
+<h1 align="center">Hi 👋, I'm Tanishka Bhatia</h1>
 
-🎓 Second-Year Computer Science Engineering Student
+<h3 align="center">
+Computer Science Engineering Student | Aspiring Software Developer
+</h3>
 
-💻 Skills:
-- Python
-- C
-- HTML5
-- CSS3
-- JavaScript
+<p align="center">
+Learning • Building • Growing 🚀
+</p>
 
-🌱 Currently learning:
-- Java
-- Data Structures & Algorithms
-- Full-Stack Development
 
-🚀 Passionate about building efficient, user-friendly applications and continuously improving my development skills.
-
-📫 Always open to learning, collaborating, and contributing to exciting projects.
